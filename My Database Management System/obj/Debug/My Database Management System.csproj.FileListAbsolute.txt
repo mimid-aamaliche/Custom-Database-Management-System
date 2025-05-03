@@ -1,0 +1,12 @@
+A:\Coding\my coding stuff\c# concepts\My Database Management System\bin\Debug\My Database Management System.exe.config
+A:\Coding\my coding stuff\c# concepts\My Database Management System\bin\Debug\My Database Management System.exe
+A:\Coding\my coding stuff\c# concepts\My Database Management System\bin\Debug\My Database Management System.pdb
+A:\Coding\my coding stuff\c# concepts\My Database Management System\bin\Debug\My DB Management System.dll
+A:\Coding\my coding stuff\c# concepts\My Database Management System\bin\Debug\My DB Management System.pdb
+A:\Coding\my coding stuff\c# concepts\My Database Management System\obj\Debug\My Database Management System.csproj.AssemblyReference.cache
+A:\Coding\my coding stuff\c# concepts\My Database Management System\obj\Debug\My Database Management System.csproj.CoreCompileInputs.cache
+A:\Coding\my coding stuff\c# concepts\My Database Management System\obj\Debug\My Datab.1406D826.Up2Date
+A:\Coding\my coding stuff\c# concepts\My Database Management System\obj\Debug\My Database Management System.exe
+A:\Coding\my coding stuff\c# concepts\My Database Management System\obj\Debug\My Database Management System.pdb
+A:\Coding\my coding stuff\c# concepts\My Database Management System\bin\Debug\My DataBase Query Stuff.dll
+A:\Coding\my coding stuff\c# concepts\My Database Management System\bin\Debug\My DataBase Query Stuff.pdb

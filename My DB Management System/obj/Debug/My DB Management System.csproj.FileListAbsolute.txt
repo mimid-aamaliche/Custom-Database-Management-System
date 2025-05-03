@@ -1,0 +1,6 @@
+A:\Coding\my coding stuff\c# concepts\My DB Management System\bin\Debug\My DB Management System.dll
+A:\Coding\my coding stuff\c# concepts\My DB Management System\bin\Debug\My DB Management System.pdb
+A:\Coding\my coding stuff\c# concepts\My DB Management System\obj\Debug\My DB Management System.csproj.AssemblyReference.cache
+A:\Coding\my coding stuff\c# concepts\My DB Management System\obj\Debug\My DB Management System.csproj.CoreCompileInputs.cache
+A:\Coding\my coding stuff\c# concepts\My DB Management System\obj\Debug\My DB Management System.dll
+A:\Coding\my coding stuff\c# concepts\My DB Management System\obj\Debug\My DB Management System.pdb

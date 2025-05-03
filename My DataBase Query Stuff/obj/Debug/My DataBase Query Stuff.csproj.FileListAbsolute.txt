@@ -1,0 +1,9 @@
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\bin\Debug\My DataBase Query Stuff.dll
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\bin\Debug\My DataBase Query Stuff.pdb
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\bin\Debug\My DB Management System.dll
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\bin\Debug\My DB Management System.pdb
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\obj\Debug\My DataBase Query Stuff.csproj.AssemblyReference.cache
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\obj\Debug\My DataBase Query Stuff.csproj.CoreCompileInputs.cache
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\obj\Debug\My DataB.CDCB9A56.Up2Date
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\obj\Debug\My DataBase Query Stuff.dll
+A:\Coding\my coding stuff\c# concepts\My DataBase Query Stuff\obj\Debug\My DataBase Query Stuff.pdb

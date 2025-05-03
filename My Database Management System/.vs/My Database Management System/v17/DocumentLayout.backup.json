@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Coding\\my coding stuff\\c# concepts\\My Database Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31682BC-99AF-490F-8BC2-393D379B4C8D}|..\\My DB Management System\\My DB Management System.csproj|a:\\coding\\my coding stuff\\c# concepts\\my db management system\\clsgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28D106-2368-44F3-8AF5-7D3191B35BED}|..\\My DataBase Query Stuff\\My DataBase Query Stuff.csproj|a:\\coding\\my coding stuff\\c# concepts\\my database query stuff\\clslogicaloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF28D106-2368-44F3-8AF5-7D3191B35BED}|..\\My DataBase Query Stuff\\My DataBase Query Stuff.csproj|a:\\coding\\my coding stuff\\c# concepts\\my database query stuff\\clsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99671E47-0BD8-4D01-BAFF-E87B66E3530E}|My Database Management System.csproj|A:\\Coding\\my coding stuff\\c# concepts\\My Database Management System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99671E47-0BD8-4D01-BAFF-E87B66E3530E}|My Database Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsGeneral.cs",
+              "DocumentMoniker": "A:\\Coding\\my coding stuff\\c# concepts\\My DB Management System\\clsGeneral.cs",
+              "RelativeDocumentMoniker": "..\\My DB Management System\\clsGeneral.cs",
+              "ToolTip": "A:\\Coding\\my coding stuff\\c# concepts\\My DB Management System\\clsGeneral.cs",
+              "RelativeToolTip": "..\\My DB Management System\\clsGeneral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T18:56:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsLogicalOperations.cs",
+              "DocumentMoniker": "A:\\Coding\\my coding stuff\\c# concepts\\My DataBase Query Stuff\\clsLogicalOperations.cs",
+              "RelativeDocumentMoniker": "..\\My DataBase Query Stuff\\clsLogicalOperations.cs",
+              "ToolTip": "A:\\Coding\\my coding stuff\\c# concepts\\My DataBase Query Stuff\\clsLogicalOperations.cs",
+              "RelativeToolTip": "..\\My DataBase Query Stuff\\clsLogicalOperations.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAuwPoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:46:31.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsQuery.cs",
+              "DocumentMoniker": "A:\\Coding\\my coding stuff\\c# concepts\\My DataBase Query Stuff\\clsQuery.cs",
+              "RelativeDocumentMoniker": "..\\My DataBase Query Stuff\\clsQuery.cs",
+              "ToolTip": "A:\\Coding\\my coding stuff\\c# concepts\\My DataBase Query Stuff\\clsQuery.cs",
+              "RelativeToolTip": "..\\My DataBase Query Stuff\\clsQuery.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAASwGMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:55:08.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Coding\\my coding stuff\\c# concepts\\My Database Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Coding\\my coding stuff\\c# concepts\\My Database Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAAAAACAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:53:14.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
