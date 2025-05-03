@@ -193,7 +193,7 @@ namespace My_Database_Management_System
 
             //try
             //{
-            //    clsCommand command = new clsCommand("A:\\Coding\\Database Project Tests", "my select test");
+            //    clsCommand command = new clsCommand("A:\\Coding\\Database Project Tests", "SchoolDB");
 
 
 
@@ -250,7 +250,7 @@ namespace My_Database_Management_System
             //        }
             //        else
             //        {
-            //            return false;
+            //            return false; //usualy this will throw an exception(invalide Column Name)
             //        }
 
 
@@ -510,7 +510,7 @@ namespace My_Database_Management_System
             try
             {
                 clsQuery query = new clsQuery("A:\\Coding\\Database Project Tests", "SchoolDB");
-                var result=query.ExecuteQuery("  Select *  from    Student where id>0 ");
+                var result=query.ExecuteQuery("  Select *  from    Student ");
 
                 //print the header
                 foreach (var c in result.SetColumns)
@@ -536,14 +536,7 @@ namespace My_Database_Management_System
 
 
 
-                //Console.WriteLine(clsLogicalOperations<string>.Greater("1001","100"));
-                //string line = "mohamed     amaliche is   coding    a project   ";
-                //List<string> list = line.Split(' ').ToList();
-                //list.RemoveAll(x => string.IsNullOrEmpty(x));
-                //foreach (string s in list)
-                //{
-                //    Console.WriteLine("element =>"+s);
-                //}
+               
 
 
             }
