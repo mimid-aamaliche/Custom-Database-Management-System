@@ -38,7 +38,7 @@ namespace My_DataBase_Query_Stuff
 
 
 
-            if (string.CompareOrdinal(FirstStatement.ToLower(), "select") == 0)
+            if (string.CompareOrdinal(FirstStatement, "select") == 0)
             {
                 //Select Statement proces here
                 Console.WriteLine("Statement :" + FirstStatement);
@@ -126,7 +126,7 @@ namespace My_DataBase_Query_Stuff
             if (IndexOfKeyWordWhere == -1)
             {
                 //there is no where statement 
-                //here we are gonna use the select all method
+                //here we are gonna use the select_all method
 
                 if (TablesExpression.Count == 1)
                 {
