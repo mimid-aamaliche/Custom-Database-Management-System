@@ -278,7 +278,7 @@ namespace My_DataBase_Query_Stuff
                 //process the condition 
 
 
-                //store the result in a bitarray
+                //append the result in a bitarray
 
 
 
@@ -290,7 +290,7 @@ namespace My_DataBase_Query_Stuff
                 //process the condition
 
 
-                //store the result in a bitarray
+                //append the result in a bitarray
 
 
                 //get out of the loop
