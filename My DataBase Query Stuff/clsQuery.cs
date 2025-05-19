@@ -23,18 +23,18 @@ namespace My_DataBase_Query_Stuff
 
         public clsRecordSet ExecuteQuery(string Query) {
         
-            //i need to code my own tokenizer 
-            //this split function is not enough
-
+           
+            //Trim the sides 
+            Query = Query.Trim();
 
             if (Query.Length == 0)
             {
                 return null;
             }
-            //Trim the sides 
-            Query = Query.Trim();
+
+            
             //Find The Main Statement
-            string FirstStatement=Query.Substring(0, Query.IndexOf(' ')).ToLower();
+            string FirstStatement = (Query.IndexOf(' ') != -1 )? Query.Substring(0, Query.IndexOf(' ')).ToLower()  :  Query.Substring(0).ToLower();
 
 
 
