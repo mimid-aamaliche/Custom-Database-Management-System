@@ -288,8 +288,7 @@ namespace My_DataBase_Query_Stuff
                         // int comparasionResult = PKCombined.CompareTo(PrimaryKeysValuesCombined.PadLeft(PKCombined.Length, '0'));
                         if (comparasionResult > 0)
                         {
-                            //great we found our proper position
-                            //now to go and swap offset values starting from this position
+                            
 
                             Sup = RecordIndex - 1;
 
@@ -298,8 +297,7 @@ namespace My_DataBase_Query_Stuff
                         }
                         else if (comparasionResult < 0)
                         {
-                            //great we found our proper position
-                            //now to go and swap offset values starting from this position
+                            
 
                             Inf = RecordIndex + 1;
 
@@ -308,12 +306,10 @@ namespace My_DataBase_Query_Stuff
                         }
                         else if (comparasionResult == 0)
                         {
-                            //great we found our proper position
-                            //now to go and swap offset values starting from this position
-
+                           
                             throw new Exception($"Primary Key already exist in the table {OurTable.Name} ");
 
-                            //return RecordIndex;
+                         
 
 
 
